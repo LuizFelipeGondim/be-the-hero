@@ -3,7 +3,7 @@ const express = require('express');
 const OngController = require('./controllers/OngController');
 const CasoController = require('./controllers/CasoController');
 const ProfileController = require('./controllers/ProfileController');
-const SessionController = require('./controllers/SessionController.js.js');
+const SessionController = require('./controllers/SessionController');
 
 
 const routes = express.Router();
