@@ -1,2 +1,2 @@
 Repositório da Semana Omnistack.
-Estado: Em construção.
+Estado: Finalizado, mas faltam algumas imagens.
