@@ -2,7 +2,7 @@
   Be the Hero :collision:
 </h1>
 
-## :alien: O que é?
+## O que é?
 Este projeto é uma aplicação construída a partir da Semana Omnistack 11 :rocket:.
 
 ## OBS: Faltam algumas imagens
